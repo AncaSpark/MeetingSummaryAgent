@@ -49,34 +49,6 @@ Transform meeting transcripts into actionable summaries with AI.
 
 6. Open http://localhost:8501 in your browser
 
-## Deployment to Streamlit Cloud
-
-### Step 1: Push to GitHub
-
-Push this code to a GitHub repository.
-
-### Step 2: Connect to Streamlit Cloud
-
-1. Go to [share.streamlit.io](https://share.streamlit.io)
-2. Sign in with GitHub
-3. Click "New app"
-4. Select your repository
-5. Set main file path: `app.py`
-
-### Step 3: Add Secrets
-
-1. In Streamlit Cloud, go to your app settings
-2. Click "Secrets"
-3. Add your secrets in TOML format:
-   ```toml
-   LANGBASE_API_KEY = "your_api_key_here"
-   ```
-
-### Step 4: Deploy
-
-Click "Deploy" and wait for the build to complete.
-
-Your app will be available at: `https://your-app-name.streamlit.app`
 
 ## Usage
 
