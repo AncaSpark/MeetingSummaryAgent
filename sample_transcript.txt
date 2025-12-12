@@ -1,0 +1,35 @@
+Meeting: Q4 Planning Session
+Date: December 10, 2024
+Attendees: Sarah (PM), John (Engineering Lead), Mike (Design), Lisa (Marketing)
+
+Sarah: Good morning everyone. Let's discuss our Q4 priorities and get aligned on the roadmap.
+
+John: Thanks Sarah. From engineering, we have three major items. First, the API v2 migration needs to be completed by end of January. Second, we need to address the performance issues reported by enterprise customers.
+
+Sarah: What's the timeline looking like for the performance fixes?
+
+John: I'd estimate two weeks once we start. We should prioritize this - it's affecting our largest accounts.
+
+Mike: On the design side, we've finalized the new dashboard mockups. I'll share the Figma links after this call. We need engineering review before we proceed.
+
+Sarah: John, can your team review Mike's designs by Friday?
+
+John: Yes, I'll assign that to the frontend team. Let's say end of day Friday.
+
+Lisa: For marketing, we're planning the January product launch announcement. I need final feature list from John by December 20th to prepare materials.
+
+John: Noted. I'll have that ready.
+
+Sarah: Great. Let's also discuss the budget. We have approval for two additional contractors. John, do you have candidates in mind?
+
+John: Yes, I've been talking to two senior developers. I'll send their profiles to HR today.
+
+Mike: One question - are we still planning to sunset the old dashboard in Q1?
+
+Sarah: Good question. Let's defer that decision until we see adoption metrics for the new dashboard. We'll revisit in our January planning.
+
+Sarah: Alright, to summarize the key actions: John reviews designs by Friday, John sends feature list to Lisa by Dec 20, John sends contractor profiles to HR today. Anything else?
+
+Lisa: I'll schedule a follow-up with John for the launch content review.
+
+Sarah: Perfect. Thanks everyone. Let's reconvene next Tuesday.
